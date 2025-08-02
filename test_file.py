@@ -5,3 +5,5 @@ print("These are new local changes")
 print("Hello world!")
 
 print("Alex")
+
+print("Еду на дачу")
